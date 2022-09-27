@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="distance_sensor" type="distance_sensor.py" name="distance_sensor" output="screen"/> 
+</launch>
